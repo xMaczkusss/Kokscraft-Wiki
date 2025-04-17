@@ -24,6 +24,7 @@ Zwierzaki zwiększają swój poziom, gry gracz otrzymuje doświadczenie.
 |    Zajączek     |           0,45%           |             45%             |             0,35%              |               35%                |
 |      Slime      |           0,5%            |             50%             |              0,4%              |               40%                |
 | Wakacyjny Goryl |           0,75%           |             75%             |             0,65%              |               65%                |
+|     Dziobak     |           0,45%           |             ??%             |             0,35%              |               ??%                |
 
 ### Kapibara
 
